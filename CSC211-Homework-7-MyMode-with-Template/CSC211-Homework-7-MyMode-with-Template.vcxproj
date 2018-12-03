@@ -121,7 +121,7 @@
     <ClInclude Include="MyMode.h" />
   </ItemGroup>
   <ItemGroup>
-    <None Include="MyMode.tpp" />
+    <None Include="MyMode.cpp" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">

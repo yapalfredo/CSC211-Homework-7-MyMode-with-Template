@@ -1,17 +1,17 @@
 The randomly generated array of integers are: 
 
-[ 2, 6, 3, 7, 7, 1, 3, 7, 8, 5, 1, 4, 10, 9, 3, 7, 7, 3, 4, 10 ]
+[ 3, 4, 2, 10, 2, 1, 3, 8, 6, 4, 3, 5, 1, 8, 9, 6, 3, 5, 7, 4 ]
 
 1 occured 2 times
-2 occured 1 time 
+2 occured 2 times
 3 occured 4 times
-4 occured 2 times
-5 occured 1 time 
-6 occured 1 time 
-7 occured 5 times
-8 occured 1 time 
+4 occured 3 times
+5 occured 2 times
+6 occured 2 times
+7 occured 1 time 
+8 occured 2 times
 9 occured 1 time 
-10 occured 2 times
+10 occured 1 time 
 
 The mode(s) is/are: 
-7    
+3    

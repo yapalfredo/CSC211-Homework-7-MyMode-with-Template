@@ -25,7 +25,7 @@
     </ClInclude>
   </ItemGroup>
   <ItemGroup>
-    <None Include="MyMode.tpp">
+    <None Include="MyMode.cpp">
       <Filter>Source Files</Filter>
     </None>
   </ItemGroup>

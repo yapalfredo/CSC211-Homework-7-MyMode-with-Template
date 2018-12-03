@@ -1,3 +1,4 @@
+#include "MyMode.h"
 
 template <class T>
 MyMode<T>::MyMode()

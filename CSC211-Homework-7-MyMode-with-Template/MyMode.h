@@ -1,3 +1,7 @@
+#ifndef _MYMODE_H_
+#define _MYMODE_H_
+
+
 #pragma once
 #include <cstdlib>
 #include <ctime>
@@ -47,7 +51,9 @@ public:
 	bool ifGreaterOrEqual(const T, const T, bool&);
 };
 
-#include "MyMode.tpp"
+#include "MyMode.cpp"
+
+#endif
 
 //
 //template <class T>
