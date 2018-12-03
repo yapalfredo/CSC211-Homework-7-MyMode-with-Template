@@ -1,0 +1,17 @@
+The randomly generated array of integers are: 
+
+[ 1, 4, 3, 10, 8, 1, 8, 5, 4, 2, 5, 7, 6, 6, 2, 5, 9, 4, 8, 3 ]
+
+1 occured 2 times
+2 occured 2 times
+3 occured 2 times
+4 occured 3 times
+5 occured 3 times
+6 occured 2 times
+7 occured 1 time 
+8 occured 3 times
+9 occured 1 time 
+10 occured 1 time 
+
+The mode(s) is/are: 
+4    5    8    
